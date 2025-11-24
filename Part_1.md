@@ -406,9 +406,4 @@ $$P_{allow} = 110.91 \times 4,800 = 532,368 \text{ N} = 532.37 \text{ kN}$$
 ### 3. Critical Lesson:
 **Neither the highest stress nor the lowest slenderness guarantees success. The optimal section balances cross-sectional area, allowable stress, and slenderness ratio to achieve adequate capacity with maximum material efficiency.**
 
----
 
-**Prepared by:** Structural Engineering Analysis
-**Date:** November 25, 2025
-**Problem Reference:** Compression Member Design - Complete 19-Question Solution
-**Material Standard:** A36 Steel (AISC Specification)
